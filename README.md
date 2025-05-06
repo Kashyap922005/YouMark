@@ -15,7 +15,7 @@ YouMark is a lightweight and easy-to-use browser extension that allows users to 
 
 - HTML, CSS, JavaScript
 - Chrome Extension APIs
-- YouTube iFrame API (if applicable)
+- YouTube iFrame API
 - Local Storage for saving bookmarks
 
 ## 📦 Installation
@@ -32,3 +32,25 @@ YouMark is a lightweight and easy-to-use browser extension that allows users to 
  5.Select the youmark project directory
 
  You should now see the YouMark extension in your browser!
+
+
+## 🧠 How It Works
+While watching a YouTube video, click the YouMark extension icon
+
+A popup opens showing existing bookmarks for the current video
+
+Click "Add Bookmark" to save the current timestamp with a title
+
+Click any saved bookmark to jump back to that moment instantly
+
+Or, manually paste any YouTube video URL and enter the timestamp you want to bookmark
+
+
+## ✅ Future Improvements
+Sync bookmarks across devices using cloud storage
+
+Organize bookmarks into folders
+
+Add tagging and search functionality
+
+Import/export bookmarks as JSON or CSV
