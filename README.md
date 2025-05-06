@@ -22,13 +22,13 @@ YouMark is a lightweight and easy-to-use browser extension that allows users to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/youmark.git
-2.Open your Chrome browser and go to chrome://extensions/
+   https://github.com/Kashyap922005/YouMark.git
+ 2.Open your Chrome browser and go to chrome://extensions/
 
-3.Enable Developer mode (top right)
+ 3.Enable Developer mode (top right)
 
-4.Click Load unpacked
+ 4.Click Load unpacked
 
-5.Select the youmark project directory
+ 5.Select the youmark project directory
 
-You should now see the YouMark extension in your browser!
+ You should now see the YouMark extension in your browser!
